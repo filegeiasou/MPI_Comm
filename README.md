@@ -1,4 +1,4 @@
-# MPI_Comm
+# Parallel_mathematics
 
 Σας ζητείται να φτιάξετε ένα MPI πρόγραμμα (σε γλώσσα C και θεωρώντας point-to-point
 communication), το οποίο, δοθέντος (ως είσοδο) ενός διανύσματος X (μήκους n στοιχείων xi | 
